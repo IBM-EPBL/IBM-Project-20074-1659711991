@@ -1,6 +1,13 @@
 # IBM-Project-20074-1659711991
 <h1>Project Title:-Natural Disasters Intensity Analysis and Classification using Artificial Intelligence</h1>
 <h1>Faculty Mentor(s) Name:- ROOPA D👩‍🏫</h1>  
+<h1>Team Members:-</h1>
+<ul>
+<li>Kavana Rao Y</li>
+<li>Sudharshiny T A</li>
+<li>Joe Mariam J</li>
+<li>Archana K</li>
+<li>Saujanya K</li>
 
 <h2>Domain:-Aritificial Intelligence</h2>
 
